@@ -1,2 +1,2 @@
 # classes
-classes and lessons - Python
+#lessons - Python
